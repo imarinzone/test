@@ -1,0 +1,414 @@
+{
+  "basics": {
+    "customFields": [
+      {
+        "icon": "linkedin-logo",
+        "id": "18f97e68-55b6-4f40-80d4-1a37c449339b",
+        "link": "https://www.linkedin.com/in/anusha-nath-8b7aba253",
+        "text": "linkedin.com/in/anusha-nath-8b7aba253"
+      }
+    ],
+    "email": "anusha.trina08@gmail.com",
+    "headline": "Software Development Engineer (SDE) or Machine Learning Engineer",
+    "location": "KOLKATA, WEST BENGAL, 700122",
+    "name": "ANUSHA NATH",
+    "phone": "8335829817",
+    "website": {
+      "label": "Github",
+      "url": "https://github.com/Trina08"
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "css": {
+      "enabled": false,
+      "value": ""
+    },
+    "design": {
+      "colors": {
+        "background": "rgba(255, 255, 255, 1)",
+        "primary": "rgba(0, 0, 0, 1)",
+        "text": "rgba(0, 0, 0, 1)"
+      },
+      "level": {
+        "icon": "circle",
+        "type": "circle"
+      }
+    },
+    "layout": {
+      "pages": [
+        {
+          "fullWidth": true,
+          "main": [
+            "summary",
+            "experience",
+            "education",
+            "projects",
+            "skills",
+            "languages",
+            "interests"
+          ],
+          "sidebar": []
+        }
+      ],
+      "sidebarWidth": 35
+    },
+    "notes": "",
+    "page": {
+      "format": "a4",
+      "gapX": 10,
+      "gapY": 10,
+      "hideIcons": false,
+      "locale": "en-US",
+      "marginX": 40,
+      "marginY": 40
+    },
+    "template": "onyx",
+    "typography": {
+      "body": {
+        "fontFamily": "Roboto",
+        "fontSize": 11,
+        "fontWeights": [
+          "400"
+        ],
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "Roboto",
+        "fontSize": 11,
+        "fontWeights": [
+          "400"
+        ],
+        "lineHeight": 1.5
+      }
+    }
+  },
+  "picture": {
+    "aspectRatio": 1,
+    "borderColor": "rgba(255, 255, 255, 1)",
+    "borderRadius": 0,
+    "borderWidth": 0,
+    "hidden": false,
+    "rotation": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.1)",
+    "shadowWidth": 0,
+    "size": 128,
+    "url": ""
+  },
+  "sections": {
+    "awards": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Awards"
+    },
+    "certifications": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Certifications"
+    },
+    "education": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "area": "Electronics and Communication Engineering",
+          "degree": "B.Tech: Electronics and Communication Engineering",
+          "description": "\u003cul\u003e\u003cli\u003e\u003cstrong\u003eComputer Science Fundamentals:\u003c/strong\u003e Data Structures \u0026 Algorithms, Operating Systems, Database Management Systems, Object-Oriented Programming, Computer Networks.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eMachine Learning \u0026 AI:\u003c/strong\u003e Machine Learning Algorithms, Deep Learning Basics, Computer Vision Applications, NLP Fundamentals.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eElectronics \u0026 Communication:\u003c/strong\u003e Digital Electronics, Analog Electronics, VLSI Design, Microprocessors \u0026 Microcontrollers.\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eMathematics:\u003c/strong\u003e Linear Algebra, Probability \u0026 Statistics, Discrete Mathematics, Numerical Methods.\u003c/li\u003e\u003c/ul\u003e",
+          "grade": "",
+          "hidden": false,
+          "id": "4b2e8c52-78d1-447e-8c88-c7e923832c3c",
+          "location": "Kolkata, India",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "Expected in 2026",
+          "school": "Heritage Institute of Technology",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "EDUCATION"
+    },
+    "experience": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "company": "Sasken Technologies",
+          "description": "\u003cul\u003e\u003cli\u003eWorked on a cutting-edge computer vision project focusing on real-time object detection and depth estimation.\u003c/li\u003e\u003cli\u003eApplied advanced YOLO (You Only Look Once) algorithms, including YOLOv5, YOLOv8, and experimented with YOLO-NAS and YOLOv11 variants for high-performance object detection tasks.\u003c/li\u003e\u003cli\u003eTrained our own models and made them work from scratch.\u003c/li\u003e\u003cli\u003eApplied other ML/AI techniques such as convolutional neural networks (CNNs) for image segmentation.\u003c/li\u003e\u003cli\u003eDocumented and presented findings, showcasing proficiency in Python, OpenCV, and other frameworks.\u003c/li\u003e\u003c/ul\u003e",
+          "hidden": false,
+          "id": "e63a137e-61b4-4c8d-8a56-4c94b7e8d752",
+          "location": "Kolkata, IN",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "06/2025 – 07/2025",
+          "position": "INTERNSHIP",
+          "roles": [],
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "EXPERIENCE"
+    },
+    "interests": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "hidden": false,
+          "icon": "users",
+          "id": "278c5e8d-6c1e-4589-a78b-3d5f8c9b2f3e",
+          "keywords": [
+            "Knowledge sharing",
+            "Open-source",
+            "Hackathons"
+          ],
+          "name": "Tech Community Engagement",
+          "options": {
+            "showLinkInTitle": false
+          }
+        },
+        {
+          "hidden": false,
+          "icon": "calculator",
+          "id": "76e9d2a8-a5b6-4c7e-8c88-1c4b78912c3e",
+          "keywords": [
+            "Mathematical modeling",
+            "Data-driven decision making"
+          ],
+          "name": "Mathematics \u0026 Data",
+          "options": {
+            "showLinkInTitle": false
+          }
+        },
+        {
+          "hidden": false,
+          "icon": "heart",
+          "id": "18f97e68-55b6-4f40-80d4-1a37c449339e",
+          "keywords": [
+            "Healthy lifestyle",
+            "Physical fitness"
+          ],
+          "name": "Fitness \u0026 Well-being",
+          "options": {
+            "showLinkInTitle": false
+          }
+        },
+        {
+          "hidden": false,
+          "icon": "microphone",
+          "id": "3e9c5f82-a9c6-4b89-a548-d31e975a6c1f",
+          "keywords": [
+            "Presentations",
+            "Collaborative teamwork"
+          ],
+          "name": "Public Speaking \u0026 Communication",
+          "options": {
+            "showLinkInTitle": false
+          }
+        }
+      ],
+      "title": "PASSION"
+    },
+    "languages": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "fluency": "Proficient (C2)",
+          "hidden": false,
+          "id": "d825c1a8-8e65-4f33-b6a8-2b9a7c36a6e8",
+          "language": "English",
+          "level": 0,
+          "options": {
+            "showLinkInTitle": false
+          }
+        },
+        {
+          "fluency": "Proficient (C2)",
+          "hidden": false,
+          "id": "4e75d31e-9a1b-4f76-88e5-3d5f8c47b9b1",
+          "language": "Hindi",
+          "level": 0,
+          "options": {
+            "showLinkInTitle": false
+          }
+        }
+      ],
+      "title": "LANGUAGES"
+    },
+    "profiles": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Profiles"
+    },
+    "projects": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "description": "\u003cp\u003eDeveloped a real-time on-screen keyboard using OpenCV and MediaPipe, detecting hand landmarks to map finger gestures to virtual keypresses. Enabled hands-free text entry using computer vision and Python.\u003c/p\u003e",
+          "hidden": false,
+          "id": "2d9c0255-7f93-4a18-971c-3e6f9d2c9c5d",
+          "name": "Virtual Keyboard",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "description": "\u003cp\u003eBuilt an air-drawing application using OpenCV and MediaPipe, recognizing hand gestures to draw on the screen in real time, with multiple colors and smooth stroke rendering.\u003c/p\u003e",
+          "hidden": false,
+          "id": "0d3a5a8e-28b3-4f99-a11e-450f146a2a6b",
+          "name": "Virtual Drawing Board",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "description": "\u003cp\u003eCreated a regression-based ML model in Python using scikit-learn to predict house prices based on features like location, area, and number of rooms.\u003c/p\u003e",
+          "hidden": false,
+          "id": "c1f7253a-a1b7-4a6c-9407-7890b0e51b18",
+          "name": "House Price Prediction Model",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "description": "\u003cp\u003eBuilt an AI-powered SQL analytics assistant using FastAPI, Uvicorn, Gemini AI, and PostgreSQL, enabling natural language to SQL translation with secure query execution via SQLAlchemy. Designed an intelligent dashboard using Streamlit for interactive business insights.\u003c/p\u003e",
+          "hidden": false,
+          "id": "d535b91b-64e9-4e7e-8c34-7a1b023f538e",
+          "name": "AI SQL Business Assistant",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "PROJECTS"
+    },
+    "publications": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Publications"
+    },
+    "references": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "References"
+    },
+    "skills": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "hidden": false,
+          "icon": "code",
+          "id": "84c8a6e8-e565-4d76-88d4-539420b9875f",
+          "keywords": [
+            "Python",
+            "C/C++"
+          ],
+          "level": 0,
+          "name": "Programming Languages",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "proficiency": "Proficient"
+        },
+        {
+          "hidden": false,
+          "icon": "brain",
+          "id": "a9e65158-b633-4f93-b6d8-1c4b78912c3f",
+          "keywords": [
+            "ML Algorithms",
+            "Deep Learning",
+            "YOLO (v5, v8, NAS, v11)"
+          ],
+          "level": 0,
+          "name": "Machine Learning \u0026 AI",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "proficiency": "Advanced"
+        },
+        {
+          "hidden": false,
+          "icon": "chart-bar",
+          "id": "f53b827e-8a71-4777-96a8-6e53c431b918",
+          "keywords": [
+            "NumPy",
+            "Pandas",
+            "Matplotlib",
+            "Seaborn"
+          ],
+          "level": 0,
+          "name": "Data Science \u0026 Analysis",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "proficiency": "Proficient"
+        },
+        {
+          "hidden": false,
+          "icon": "eye",
+          "id": "3e9c5f82-a9c6-4b89-a548-d31e975a6c1e",
+          "keywords": [
+            "OpenCV",
+            "MediaPipe",
+            "Image Segmentation",
+            "Object Tracking",
+            "Depth Estimation"
+          ],
+          "level": 0,
+          "name": "Computer Vision",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "proficiency": "Experienced"
+        }
+      ],
+      "title": "TECHNICAL SKILLS"
+    },
+    "volunteer": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Volunteer"
+    }
+  },
+  "summary": {
+    "columns": 1,
+    "content": "\u003cp\u003eTo obtain a challenging position as a Software Development Engineer (SDE) or Machine Learning Engineer, where I can apply my strong programming skills and deep understanding of AI, computer vision, and data-driven solutions to solve complex Problems. I am eager to contribute to innovative projects that combine robust software engineering with advanced machine learning techniques, while continuously learning and growing as a technology professional. I am a Fast learner with a self-driven, high-ownership mindset, experienced in quickly mastering new tools, products, and technologies to meet customer requirement. I am skilled in relationship building, follow-ups, technical support, and long-term account retention, ensuring both pre-sales and post-sales success. I am Competitive and target-oriented, with demonstrated discipline through independent project execution, deadline ownership, and continuous upskilling in advanced engineering domains.\u003c/p\u003e",
+    "hidden": false,
+    "title": "CAREER OBJECTIVE"
+  }
+}
